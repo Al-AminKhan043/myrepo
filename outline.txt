@@ -1,4 +1,4 @@
 chapter 1
 -- This is the very beginning of my learning of Git. Yay!
 This outline includes a medieval romantic story-
-chapter 1
+chapter 1 in details
